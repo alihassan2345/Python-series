@@ -1,0 +1,10 @@
+Python is a high-level, interpreted programming language known for its simple 
+and readable syntax. It is beginner-friendly and is used for web development, data science, 
+AI, scripting, and automation.
+
+✅ Features of Python:
+1️⃣ Easy to learn and use - Simple and readable syntax
+2️⃣ Interpreted language - Code is executed line by line.
+3️⃣ Dynamically typed - No need to specify the type of variables
+4️⃣ Huge libraries - NumPy, Pandas, Django, Flask, TensorFlow, etc.
+5️⃣ Cross-platform - Runs on Windows, Mac, Linux everywhere
